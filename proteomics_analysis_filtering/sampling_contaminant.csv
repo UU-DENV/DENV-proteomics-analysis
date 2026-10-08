@@ -1,0 +1,348 @@
+Entry,Entry.Name,Protein.Name,Organism,Genes,Reviewed,Source
+P02656,APOC3_HUMAN,Apolipoprotein C-III (Apo-CIII) (ApoC-III) (Apolipoprotein C3),Homo sapiens (Human),APOC3,reviewed,coagulation
+B0YIW2,B0YIW2_HUMAN,Apolipoprotein C-III (Apolipoprotein C3),Homo sapiens (Human),APOC3,unreviewed,coagulation
+O75882,ATRN_HUMAN,Attractin (DPPT-L) (Mahogany homolog),Homo sapiens (Human),ATRN,reviewed,coagulation
+P06276,CHLE_HUMAN,Cholinesterase (EC 3.1.1.8) (Acylcholine acylhydrolase) (Butyrylcholine esterase) (Choline esterase II) (Pseudocholinesterase),Homo sapiens (Human),BCHE,reviewed,coagulation
+F8WF14,F8WF14_HUMAN,Carboxylic ester hydrolase (EC 3.1.1.-),Homo sapiens (Human),BCHE,unreviewed,coagulation
+F8WEX7,F8WEX7_HUMAN,Carboxylic ester hydrolase (EC 3.1.1.-),Homo sapiens (Human),BCHE,unreviewed,coagulation
+Q9NZP8,C1RL_HUMAN,Complement C1r subcomponent-like protein (C1r-LP) (C1r-like protein) (EC 3.4.21.-) (C1r-like serine protease analog protein) (CLSPa),Homo sapiens (Human),C1RL,reviewed,coagulation
+P33151,CADH5_HUMAN,Cadherin-5 (7B4 antigen) (Vascular endothelial cadherin) (VE-cadherin) (CD antigen CD144),Homo sapiens (Human),CDH5,reviewed,coagulation
+I3L1J2,I3L1J2_HUMAN,Cadherin 5,Homo sapiens (Human),CDH5,unreviewed,coagulation
+P10909,CLUS_HUMAN,"Clusterin (Aging-associated gene 4 protein) (Apolipoprotein J) (Apo-J) (Complement cytolysis inhibitor) (CLI) (Complement-associated protein SP-40,40) (Ku70-binding protein 1) (NA1/NA2) (Sulfated glycoprotein 2) (SGP-2) (Testosterone-repressed prostate message 2) (TRPM-2) [Cleaved into: Clusterin beta chain (ApoJalpha) (Complement cytolysis inhibitor a chain) (SP-40,40 beta-chain); Clusterin alpha chain (ApoJbeta) (Complement cytolysis inhibitor b chain) (SP-40,40 alpha-chain)]",Homo sapiens (Human),CLU,reviewed,coagulation
+H0YC35,H0YC35_HUMAN,Clusterin,Homo sapiens (Human),CLU,unreviewed,coagulation
+H0YLK8,H0YLK8_HUMAN,Clusterin,Homo sapiens (Human),CLU,unreviewed,coagulation
+P01034,CYTC_HUMAN,Cystatin-C (Cystatin-3) (Gamma-trace) (Neuroendocrine basic polypeptide) (Post-gamma-globulin),Homo sapiens (Human),CST3,reviewed,coagulation
+P15924,DESP_HUMAN,Desmoplakin (DP) (250/210 kDa paraneoplastic pemphigus antigen),Homo sapiens (Human),DSP,reviewed,coagulation
+Q16610,ECM1_HUMAN,Extracellular matrix protein 1 (Secretory component p85),Homo sapiens (Human),ECM1,reviewed,coagulation
+P03951,FA11_HUMAN,Coagulation factor XI (FXI) (EC 3.4.21.27) (Plasma thromboplastin antecedent) (PTA) [Cleaved into: Coagulation factor XIa heavy chain; Coagulation factor XIa light chain],Homo sapiens (Human),F11,reviewed,coagulation
+P00734,THRB_HUMAN,Prothrombin (EC 3.4.21.5) (Coagulation factor II) [Cleaved into: Activation peptide fragment 1; Activation peptide fragment 2; Thrombin light chain; Thrombin heavy chain],Homo sapiens (Human),F2,reviewed,coagulation
+E9PIT3,E9PIT3_HUMAN,Prothrombin (EC 3.4.21.5) (Coagulation factor II),Homo sapiens (Human),F2,unreviewed,coagulation
+P02671,FIBA_HUMAN,Fibrinogen alpha chain [Cleaved into: Fibrinopeptide A; Fibrinogen alpha chain],Homo sapiens (Human),FGA,reviewed,coagulation
+P02675,FIBB_HUMAN,Fibrinogen beta chain [Cleaved into: Fibrinopeptide B; Fibrinogen beta chain],Homo sapiens (Human),FGB,reviewed,coagulation
+D6REL8,D6REL8_HUMAN,Fibrinogen beta chain,Homo sapiens (Human),FGB,unreviewed,coagulation
+P02679,FIBG_HUMAN,Fibrinogen gamma chain,Homo sapiens (Human),FGG,reviewed,coagulation
+C9JC84,C9JC84_HUMAN,Fibrinogen gamma chain,Homo sapiens (Human),FGG,unreviewed,coagulation
+P07359,GP1BA_HUMAN,Platelet glycoprotein Ib alpha chain (GP-Ib alpha) (GPIb-alpha) (GPIbA) (Glycoprotein Ibalpha) (Antigen CD42b-alpha) (CD antigen CD42b) [Cleaved into: Glycocalicin],Homo sapiens (Human),GP1BA,reviewed,coagulation
+P40197,GPV_HUMAN,Platelet glycoprotein V (GPV) (Glycoprotein 5) (CD antigen CD42d),Homo sapiens (Human),GP5,reviewed,coagulation
+P80108,PHLD_HUMAN,Phosphatidylinositol-glycan-specific phospholipase D (PI-G PLD) (EC 3.1.4.50) (Glycoprotein phospholipase D) (Glycosyl-phosphatidylinositol-specific phospholipase D) (GPI-PLD) (GPI-specific phospholipase D),Homo sapiens (Human),GPLD1,reviewed,coagulation
+P98160,PGBM_HUMAN,Basement membrane-specific heparan sulfate proteoglycan core protein (HSPG) (Perlecan) (PLC) [Cleaved into: Endorepellin; LG3 peptide],Homo sapiens (Human),HSPG2,reviewed,coagulation
+P01042,KNG1_HUMAN,Kininogen-1 (Alpha-2-thiol proteinase inhibitor) (Fitzgerald factor) (High molecular weight kininogen) (HMWK) (Williams-Fitzgerald-Flaujeac factor) [Cleaved into: Kininogen-1 heavy chain; T-kinin (Ile-Ser-Bradykinin); Bradykinin (Kallidin I); Lysyl-bradykinin (Kallidin II); Kininogen-1 light chain; Low molecular weight growth-promoting factor],Homo sapiens (Human),KNG1,reviewed,coagulation
+P02788,TRFL_HUMAN,Lactotransferrin (Lactoferrin) (EC 3.4.21.-) (Growth-inhibiting protein 12) (Talalactoferrin) [Cleaved into: Lactoferricin-H (Lfcin-H); Kaliocin-1; Lactoferroxin-A; Lactoferroxin-B; Lactoferroxin-C],Homo sapiens (Human),LTF,reviewed,coagulation
+E7EQB2,E7EQB2_HUMAN,Lactotransferrin,Homo sapiens (Human),LTF,unreviewed,coagulation
+E7ER44,E7ER44_HUMAN,Lactotransferrin,Homo sapiens (Human),LTF,unreviewed,coagulation
+P33908,MA1A1_HUMAN,"Mannosyl-oligosaccharide 1,2-alpha-mannosidase IA (EC 3.2.1.113) (Man(9)-alpha-mannosidase) (Man9-mannosidase) (Mannosidase alpha class 1A member 1) (Processing alpha-1,2-mannosidase IA) (Alpha-1,2-mannosidase IA)",Homo sapiens (Human),MAN1A1,reviewed,coagulation
+P48740,MASP1_HUMAN,Mannan-binding lectin serine protease 1 (EC 3.4.21.-) (Complement factor MASP-3) (Complement-activating component of Ra-reactive factor) (Mannose-binding lectin-associated serine protease 1) (MASP-1) (Mannose-binding protein-associated serine protease) (Ra-reactive factor serine protease p100) (RaRF) (Serine protease 5) [Cleaved into: Mannan-binding lectin serine protease 1 heavy chain; Mannan-binding lectin serine protease 1 light chain],Homo sapiens (Human),MASP1,reviewed,coagulation
+P02776,PLF4_HUMAN,"Platelet factor 4 (PF-4) (C-X-C motif chemokine 4) (Iroplact) (Oncostatin-A) [Cleaved into: Platelet factor 4, short form (Endothelial cell growth inhibitor)]",Homo sapiens (Human),PF4,reviewed,coagulation
+P10720,PF4V_HUMAN,Platelet factor 4 variant (C-X-C motif chemokine 4 variant) (CXCL4L1) (PF4alt) (PF4var1) [Cleaved into: Platelet factor 4 variant(4-74); Platelet factor 4 variant(5-74); Platelet factor 4 variant(6-74)],Homo sapiens (Human),PF4V1,reviewed,coagulation
+P04070,PROC_HUMAN,Vitamin K-dependent protein C (EC 3.4.21.69) (Anticoagulant protein C) (Autoprothrombin IIA) (Blood coagulation factor XIV) [Cleaved into: Vitamin K-dependent protein C light chain; Vitamin K-dependent protein C heavy chain; Activation peptide],Homo sapiens (Human),PROC,reviewed,coagulation
+E7END6,E7END6_HUMAN,Vitamin K-dependent protein C (EC 3.4.21.69) (Anticoagulant protein C) (Autoprothrombin IIA) (Blood coagulation factor XIV),Homo sapiens (Human),PROC,unreviewed,coagulation
+P05154,IPSP_HUMAN,Plasma serine protease inhibitor (Acrosomal serine protease inhibitor) (Plasminogen activator inhibitor 3) (PAI-3) (PAI3) (Protein C inhibitor) (PCI) (Serpin A5),Homo sapiens (Human),SERPINA5,reviewed,coagulation
+G3V2M1,G3V2M1_HUMAN,Serpin family A member 5,Homo sapiens (Human),SERPINA5,unreviewed,coagulation
+P01008,ANT3_HUMAN,Antithrombin-III (ATIII) (Serpin C1),Homo sapiens (Human),SERPINC1,reviewed,coagulation
+Q6N022,TEN4_HUMAN,Teneurin-4 (Ten-4) (Protein Odd Oz/ten-m homolog 4) (Tenascin-M4) (Ten-m4) (Teneurin transmembrane protein 4),Homo sapiens (Human),TENM4,reviewed,coagulation
+H0YCJ4,H0YCJ4_HUMAN,Teneurin transmembrane protein 4,Homo sapiens (Human),TENM4,unreviewed,coagulation
+O75083,WDR1_HUMAN,WD repeat-containing protein 1 (Actin-interacting protein 1) (AIP1) (NORI-1),Homo sapiens (Human),WDR1,reviewed,coagulation
+D6RD66,D6RD66_HUMAN,WD repeat domain 1,Homo sapiens (Human),WDR1,unreviewed,coagulation
+A0A0C4DGZ8,A0A0C4DGZ8_HUMAN,deleted,,,,coagulation
+G3V5Q9,G3V5Q9_HUMAN,deleted,,,,coagulation
+P63261,ACTG_HUMAN,"Actin, cytoplasmic 2 (EC 3.6.4.-) (Gamma-actin) [Cleaved into: Actin, cytoplasmic 2, N-terminally processed]",Homo sapiens (Human),ACTG1,reviewed,erythrocyte
+P13716,HEM2_HUMAN,Delta-aminolevulinic acid dehydratase (ALADH) (EC 4.2.1.24) (Porphobilinogen synthase),Homo sapiens (Human),ALAD,reviewed,erythrocyte
+P04075,ALDOA_HUMAN,Fructose-bisphosphate aldolase A (EC 4.1.2.13) (Lung cancer antigen NY-LU-1) (Muscle-type aldolase),Homo sapiens (Human),ALDOA,reviewed,erythrocyte
+H3BQN4,H3BQN4_HUMAN,Fructose-bisphosphate aldolase (EC 4.1.2.13),Homo sapiens (Human),ALDOA,unreviewed,erythrocyte
+J3KPS3,J3KPS3_HUMAN,Fructose-bisphosphate aldolase (EC 4.1.2.13),Homo sapiens (Human),ALDOA,unreviewed,erythrocyte
+H3BPS8,H3BPS8_HUMAN,Fructose-bisphosphate aldolase A (EC 4.1.2.13) (Muscle-type aldolase),Homo sapiens (Human),ALDOA,unreviewed,erythrocyte
+P16157,ANK1_HUMAN,Ankyrin-1 (ANK-1) (Ankyrin-R) (Erythrocyte ankyrin),Homo sapiens (Human),ANK1,reviewed,erythrocyte
+H0YBS0,H0YBS0_HUMAN,Ankyrin 1,Homo sapiens (Human),ANK1,unreviewed,erythrocyte
+P30043,BLVRB_HUMAN,Flavin reductase (NADPH) (FR) (EC 1.5.1.30) (Biliverdin reductase B) (BVR-B) (EC 1.3.1.24) (Biliverdin-IX beta-reductase) (Green heme-binding protein) (GHBP) (NADPH-dependent diaphorase) (NADPH-flavin reductase) (FLR),Homo sapiens (Human),BLVRB,reviewed,erythrocyte
+M0R192,M0R192_HUMAN,Biliverdin reductase B,Homo sapiens (Human),BLVRB,unreviewed,erythrocyte
+M0QZL1,M0QZL1_HUMAN,Biliverdin reductase B,Homo sapiens (Human),BLVRB,unreviewed,erythrocyte
+P07738,PMGE_HUMAN,"Bisphosphoglycerate mutase (BPGM) (EC 5.4.2.4) (2,3-bisphosphoglycerate mutase, erythrocyte) (2,3-bisphosphoglycerate synthase) (EC 5.4.2.11) (2,3-diphosphoglycerate mutase) (DPGM) (BPG-dependent PGAM)",Homo sapiens (Human),BPGM,reviewed,erythrocyte
+P00915,CAH1_HUMAN,Carbonic anhydrase 1 (EC 4.2.1.1) (Carbonate dehydratase I) (Carbonic anhydrase B) (CAB) (Carbonic anhydrase I) (CA-I) (Cyanamide hydratase CA1) (EC 4.2.1.69),Homo sapiens (Human),CA1,reviewed,erythrocyte
+E5RHP7,E5RHP7_HUMAN,Carbonic anhydrase (EC 4.2.1.1),Homo sapiens (Human),CA1,unreviewed,erythrocyte
+E5RH81,E5RH81_HUMAN,Carbonic anhydrase (EC 4.2.1.1),Homo sapiens (Human),CA1,unreviewed,erythrocyte
+E5RFE7,E5RFE7_HUMAN,Carbonic anhydrase (EC 4.2.1.1),Homo sapiens (Human),CA1,unreviewed,erythrocyte
+H0YBE2,H0YBE2_HUMAN,Carbonic anhydrase (EC 4.2.1.1),Homo sapiens (Human),CA1,unreviewed,erythrocyte
+E5RIF9,E5RIF9_HUMAN,Carbonic anhydrase (EC 4.2.1.1),Homo sapiens (Human),CA1,unreviewed,erythrocyte
+E5RG43,E5RG43_HUMAN,Carbonic anhydrase (EC 4.2.1.1),Homo sapiens (Human),CA1,unreviewed,erythrocyte
+P00918,CAH2_HUMAN,Carbonic anhydrase 2 (EC 4.2.1.1) (Carbonate dehydratase II) (Carbonic anhydrase C) (CAC) (Carbonic anhydrase II) (CA-II) (Cyanamide hydratase CA2) (EC 4.2.1.69),Homo sapiens (Human),CA2,reviewed,erythrocyte
+P04040,CATA_HUMAN,Catalase (EC 1.11.1.6),Homo sapiens (Human),CAT,reviewed,erythrocyte
+P63241,IF5A1_HUMAN,Eukaryotic translation initiation factor 5A-1 (eIF-5A-1) (eIF-5A1) (Eukaryotic initiation factor 5A isoform 1) (eIF-5A) (Rev-binding factor) (eIF-4D),Homo sapiens (Human),EIF5A,reviewed,erythrocyte
+I3L397,I3L397_HUMAN,Eukaryotic translation initiation factor 5A (eIF-5A),Homo sapiens (Human),EIF5A,unreviewed,erythrocyte
+I3L504,I3L504_HUMAN,Eukaryotic translation initiation factor 5A-1 (Eukaryotic initiation factor 5A isoform 1) (eIF-4D),Homo sapiens (Human),EIF5A,unreviewed,erythrocyte
+Q9GZV4,IF5A2_HUMAN,Eukaryotic translation initiation factor 5A-2 (eIF-5A-2) (eIF-5A2) (Eukaryotic initiation factor 5A isoform 2),Homo sapiens (Human),EIF5A2,reviewed,erythrocyte
+F8WCJ1,F8WCJ1_HUMAN,Eukaryotic translation initiation factor 5A (eIF-5A),Homo sapiens (Human),EIF5A2,unreviewed,erythrocyte
+C9J7B5,C9J7B5_HUMAN,Eukaryotic translation initiation factor 5A (eIF-5A),Homo sapiens (Human),EIF5A2,unreviewed,erythrocyte
+C9J4W5,C9J4W5_HUMAN,Eukaryotic translation initiation factor 5A (eIF-5A),Homo sapiens (Human),EIF5A2,unreviewed,erythrocyte
+Q6IS14,IF5AL_HUMAN,Eukaryotic translation initiation factor 5A-1-like (eIF-5A-1-like) (eIF-5A1-like) (Eukaryotic initiation factor 5A isoform 1-like),Homo sapiens (Human),EIF5AL1,reviewed,erythrocyte
+P11171,EPB41_HUMAN,Protein 4.1 (P4.1) (4.1R) (Band 4.1) (EPB4.1) (Erythrocyte membrane protein band 4.1),Homo sapiens (Human),EPB41,reviewed,erythrocyte
+Q4VB86,Q4VB86_HUMAN,Protein 4.1 (Band 4.1) (Erythrocyte membrane protein band 4.1),Homo sapiens (Human),EPB41,unreviewed,erythrocyte
+P69905,HBA_HUMAN,Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain) [Cleaved into: Hemopressin],Homo sapiens (Human),HBA1,reviewed,erythrocyte
+P69905,HBA_HUMAN,Hemoglobin subunit alpha (Alpha-globin) (Hemoglobin alpha chain) [Cleaved into: Hemopressin],Homo sapiens (Human),HBA1; HBA2,reviewed,erythrocyte
+P68871,HBB_HUMAN,Hemoglobin subunit beta (Beta-globin) (Hemoglobin beta chain) [Cleaved into: LVV-hemorphin-7; Spinorphin],Homo sapiens (Human),HBB,reviewed,erythrocyte
+P02042,HBD_HUMAN,Hemoglobin subunit delta (Delta-globin) (Hemoglobin delta chain),Homo sapiens (Human),HBD,reviewed,erythrocyte
+E9PFT6,E9PFT6_HUMAN,Hemoglobin subunit delta,Homo sapiens (Human),HBD,unreviewed,erythrocyte
+P02100,HBE_HUMAN,Hemoglobin subunit epsilon (Epsilon-globin) (Hemoglobin epsilon chain),Homo sapiens (Human),HBE1,reviewed,erythrocyte
+P02008,HBAZ_HUMAN,Hemoglobin subunit zeta,Homo sapiens (Human),HBZ,reviewed,erythrocyte
+P09105,HBAT_HUMAN,Hemoglobin subunit theta-1,Homo sapiens (Human),HBQ1,reviewed,erythrocyte
+Q6B0K9,HBM_HUMAN,Hemoglobin subunit mu,Homo sapiens (Human),HBM,reviewed,erythrocyte
+P69892,HBG2_HUMAN,Hemoglobin subunit gamma-2,Homo sapiens (Human),HBG2,reviewed,erythrocyte
+P69891,HBG1_HUMAN,Hemoglobin subunit gamma-1,Homo sapiens (Human),HBG1,reviewed,erythrocyte
+P11142,HSP7C_HUMAN,Heat shock cognate 71 kDa protein (EC 3.6.4.10) (Heat shock 70 kDa protein 8) (Lipopolysaccharide-associated protein 1) (LAP-1) (LPS-associated protein 1),Homo sapiens (Human),HSPA8,reviewed,erythrocyte
+E9PKE3,E9PKE3_HUMAN,Heat shock cognate 71 kDa protein (Heat shock 70 kDa protein 8),Homo sapiens (Human),HSPA8,unreviewed,erythrocyte
+E9PNE6,E9PNE6_HUMAN,Heat shock cognate 71 kDa protein (Heat shock 70 kDa protein 8),Homo sapiens (Human),HSPA8,unreviewed,erythrocyte
+E9PN89,E9PN89_HUMAN,Heat shock cognate 71 kDa protein (Heat shock 70 kDa protein 8),Homo sapiens (Human),HSPA8,unreviewed,erythrocyte
+P07195,LDHB_HUMAN,L-lactate dehydrogenase B chain (LDH-B) (EC 1.1.1.27) (LDH heart subunit) (LDH-H) (Renal carcinoma antigen NY-REN-46),Homo sapiens (Human),LDHB,reviewed,erythrocyte
+A8MW50,A8MW50_HUMAN,L-lactate dehydrogenase (EC 1.1.1.27),Homo sapiens (Human),LDHB,unreviewed,erythrocyte
+C9J7H8,C9J7H8_HUMAN,L-lactate dehydrogenase B chain,Homo sapiens (Human),LDHB,unreviewed,erythrocyte
+Q9GZT8,NIF3L_HUMAN,NIF3-like protein 1 (Amyotrophic lateral sclerosis 2 chromosomal region candidate gene 1 protein),Homo sapiens (Human),NIF3L1,reviewed,erythrocyte
+E7EXA3,E7EXA3_HUMAN,NIF3-like protein 1,Homo sapiens (Human),NIF3L1,unreviewed,erythrocyte
+Q6X734,Q6X734_HUMAN,NIF3-like protein 1,Homo sapiens (Human),NIF3L1,unreviewed,erythrocyte
+P00558,PGK1_HUMAN,Phosphoglycerate kinase 1 (EC 2.7.2.3) (Cell migration-inducing gene 10 protein) (Primer recognition protein 2) (PRP 2),Homo sapiens (Human),PGK1,reviewed,erythrocyte
+P00491,PNPH_HUMAN,Purine nucleoside phosphorylase (PNP) (EC 2.4.2.1) (Inosine phosphorylase) (Inosine-guanosine phosphorylase),Homo sapiens (Human),PNP,reviewed,erythrocyte
+G3V5M2,G3V5M2_HUMAN,Purine nucleoside phosphorylase (EC 2.4.2.1) (Inosine-guanosine phosphorylase),Homo sapiens (Human),PNP,unreviewed,erythrocyte
+P32119,PRDX2_HUMAN,Peroxiredoxin-2 (EC 1.11.1.24) (Natural killer cell-enhancing factor B) (NKEF-B) (PRP) (Thiol-specific antioxidant protein) (TSA) (Thioredoxin peroxidase 1) (Thioredoxin-dependent peroxide reductase 1) (Thioredoxin-dependent peroxiredoxin 2),Homo sapiens (Human),PRDX2,reviewed,erythrocyte
+P30041,PRDX6_HUMAN,Peroxiredoxin-6 (EC 1.11.1.27) (1-Cys peroxiredoxin) (1-Cys PRX) (24 kDa protein) (Acidic calcium-independent phospholipase A2) (aiPLA2) (EC 3.1.1.4) (Antioxidant protein 2) (Glutathione-dependent peroxiredoxin) (Liver 2D page spot 40) (Lysophosphatidylcholine acyltransferase 5) (LPC acyltransferase 5) (LPCAT-5) (Lyso-PC acyltransferase 5) (EC 2.3.1.23) (Non-selenium glutathione peroxidase) (NSGPx) (Red blood cells page spot 12),Homo sapiens (Human),PRDX6,reviewed,erythrocyte
+P62979,RS27A_HUMAN,Ubiquitin-ribosomal protein eS31 fusion protein (Ubiquitin carboxyl extension protein 80) [Cleaved into: Ubiquitin; Small ribosomal subunit protein eS31 (40S ribosomal protein S27a)],Homo sapiens (Human),RPS27A,reviewed,erythrocyte
+J3QTR3,J3QTR3_HUMAN,Ubiquitin-40S ribosomal protein S27a,Homo sapiens (Human),RPS27A,unreviewed,erythrocyte
+Q13228,SBP1_HUMAN,Methanethiol oxidase (MTO) (EC 1.8.3.4) (56 kDa selenium-binding protein) (SBP56) (SP56) (Selenium-binding protein 1),Homo sapiens (Human),SELENBP1,reviewed,erythrocyte
+A6PVX1,A6PVX1_HUMAN,Methanethiol oxidase (MTO) (EC 1.8.3.4) (Selenium-binding protein 1),Homo sapiens (Human),SELENBP1,unreviewed,erythrocyte
+H0Y532,H0Y532_HUMAN,Methanethiol oxidase (MTO) (EC 1.8.3.4) (Selenium-binding protein 1),Homo sapiens (Human),SELENBP1,unreviewed,erythrocyte
+P02730,B3AT_HUMAN,Band 3 anion transport protein (Anion exchange protein 1) (AE 1) (Anion exchanger 1) (Solute carrier family 4 member 1) (CD antigen CD233),Homo sapiens (Human),SLC4A1,reviewed,erythrocyte
+A0A0A0MS98,A0A0A0MS98_HUMAN,Solute carrier family 4 member 1 (Diego blood group),Homo sapiens (Human),SLC4A1,unreviewed,erythrocyte
+P00441,SODC_HUMAN,Superoxide dismutase [Cu-Zn] (EC 1.15.1.1) (Superoxide dismutase 1) (hSod1),Homo sapiens (Human),SOD1,reviewed,erythrocyte
+H7BYH4,H7BYH4_HUMAN,Superoxide dismutase [Cu-Zn] (EC 1.15.1.1),Homo sapiens (Human),SOD1,unreviewed,erythrocyte
+P02549,SPTA1_HUMAN,"Spectrin alpha chain, erythrocytic 1 (Erythroid alpha-spectrin)",Homo sapiens (Human),SPTA1,reviewed,erythrocyte
+P11277,SPTB1_HUMAN,"Spectrin beta chain, erythrocytic (Beta-I spectrin)",Homo sapiens (Human),SPTB,reviewed,erythrocyte
+P60174,TPIS_HUMAN,Triosephosphate isomerase (TIM) (EC 5.3.1.1) (Methylglyoxal synthase) (EC 4.2.3.3) (Triose-phosphate isomerase),Homo sapiens (Human),TPI1,reviewed,erythrocyte
+P62987,RL40_HUMAN,Ubiquitin-ribosomal protein eL40 fusion protein (CEP52) (Ubiquitin A-52 residue ribosomal protein fusion product 1) [Cleaved into: Ubiquitin; Large ribosomal subunit protein eL40 (60S ribosomal protein L40)],Homo sapiens (Human),UBA52,reviewed,erythrocyte
+M0R1V7,M0R1V7_HUMAN,Ubiquitin A-52 residue ribosomal protein fusion product 1,Homo sapiens (Human),UBA52,unreviewed,erythrocyte
+M0R1M6,M0R1M6_HUMAN,Ubiquitin-ribosomal protein eL40 fusion protein (Ubiquitin A-52 residue ribosomal protein fusion product 1),Homo sapiens (Human),UBA52,unreviewed,erythrocyte
+P0CG47,UBB_HUMAN,Polyubiquitin-B [Cleaved into: Ubiquitin],Homo sapiens (Human),UBB,reviewed,erythrocyte
+J3QS39,J3QS39_HUMAN,Ubiquitin B,Homo sapiens (Human),UBB,unreviewed,erythrocyte
+B4DV12,B4DV12_HUMAN,Ubiquitin B,Homo sapiens (Human),UBB,unreviewed,erythrocyte
+J3QKN0,J3QKN0_HUMAN,Ubiquitin B,Homo sapiens (Human),UBB,unreviewed,erythrocyte
+J3QSA3,J3QSA3_HUMAN,Ubiquitin B,Homo sapiens (Human),UBB,unreviewed,erythrocyte
+P0CG48,UBC_HUMAN,Polyubiquitin-C [Cleaved into: Ubiquitin],Homo sapiens (Human),UBC,reviewed,erythrocyte
+F5H6Q2,F5H6Q2_HUMAN,Ubiquitin C,Homo sapiens (Human),UBC,unreviewed,erythrocyte
+F5GYU3,F5GYU3_HUMAN,Ubiquitin C,Homo sapiens (Human),UBC,unreviewed,erythrocyte
+F5H2Z3,F5H2Z3_HUMAN,Ubiquitin C,Homo sapiens (Human),UBC,unreviewed,erythrocyte
+F5H265,F5H265_HUMAN,Ubiquitin C,Homo sapiens (Human),UBC,unreviewed,erythrocyte
+F5H388,F5H388_HUMAN,Ubiquitin C,Homo sapiens (Human),UBC,unreviewed,erythrocyte
+F5H747,F5H747_HUMAN,Ubiquitin C,Homo sapiens (Human),UBC,unreviewed,erythrocyte
+F5GXK7,F5GXK7_HUMAN,Ubiquitin C,Homo sapiens (Human),UBC,unreviewed,erythrocyte
+Q5PY61,Q5PY61_HUMAN,Ubiquitin C splice variant,Homo sapiens (Human),UBC,unreviewed,erythrocyte
+Q96C32,Q96C32_HUMAN,UBC protein (Ubiquitin C),Homo sapiens (Human),UBC,unreviewed,erythrocyte
+F5GZ39,F5GZ39_HUMAN,Ubiquitin C,Homo sapiens (Human),UBC,unreviewed,erythrocyte
+A0A087WZE4,A0A087WZE4_HUMAN,deleted,,,,erythrocyte
+J3QLP7,J3QLP7_HUMAN,deleted,,,,erythrocyte
+J3QRK5,J3QRK5_HUMAN,deleted,,,,erythrocyte
+Q6E0U4,DMKN_HUMAN,Dermokine (Epidermis-specific secreted protein SK30/SK89),Homo sapiens (Human),DMKN,reviewed,keratin
+P20930,FILA_HUMAN,Filaggrin,Homo sapiens (Human),FLG,reviewed,keratin
+Q5D862,FILA2_HUMAN,Filaggrin-2 (FLG-2) (Intermediate filament-associated and psoriasis-susceptibility protein) (Ifapsoriasin),Homo sapiens (Human),FLG2,reviewed,keratin
+Q86YZ3,HORN_HUMAN,Hornerin,Homo sapiens (Human),HRNR,reviewed,keratin
+P04264,K2C1_HUMAN,"Keratin, type II cytoskeletal 1 (67 kDa cytokeratin) (Cytokeratin-1) (CK-1) (Hair alpha protein) (Keratin-1) (K1) (Type-II keratin Kb1)",Homo sapiens (Human),KRT1,reviewed,keratin
+P13645,K1C10_HUMAN,"Keratin, type I cytoskeletal 10 (Cytokeratin-10) (CK-10) (Keratin-10) (K10)",Homo sapiens (Human),KRT10,reviewed,keratin
+Q99456,K1C12_HUMAN,"Keratin, type I cytoskeletal 12 (Cytokeratin-12) (CK-12) (Keratin-12) (K12)",Homo sapiens (Human),KRT12,reviewed,keratin
+P13646,K1C13_HUMAN,"Keratin, type I cytoskeletal 13 (Cytokeratin-13) (CK-13) (Keratin-13) (K13)",Homo sapiens (Human),KRT13,reviewed,keratin
+P02533,K1C14_HUMAN,"Keratin, type I cytoskeletal 14 (Cytokeratin-14) (CK-14) (Keratin-14) (K14)",Homo sapiens (Human),KRT14,reviewed,keratin
+P19012,K1C15_HUMAN,"Keratin, type I cytoskeletal 15 (Cytokeratin-15) (CK-15) (Keratin-15) (K15)",Homo sapiens (Human),KRT15,reviewed,keratin
+P08779,K1C16_HUMAN,"Keratin, type I cytoskeletal 16 (Cytokeratin-16) (CK-16) (Keratin-16) (K16)",Homo sapiens (Human),KRT16,reviewed,keratin
+Q04695,K1C17_HUMAN,"Keratin, type I cytoskeletal 17 (39.1) (Cytokeratin-17) (CK-17) (Keratin-17) (K17)",Homo sapiens (Human),KRT17,reviewed,keratin
+P05783,K1C18_HUMAN,"Keratin, type I cytoskeletal 18 (Cell proliferation-inducing gene 46 protein) (Cytokeratin-18) (CK-18) (Keratin-18) (K18)",Homo sapiens (Human),KRT18,reviewed,keratin
+P08727,K1C19_HUMAN,"Keratin, type I cytoskeletal 19 (Cytokeratin-19) (CK-19) (Keratin-19) (K19)",Homo sapiens (Human),KRT19,reviewed,keratin
+P35908,K22E_HUMAN,"Keratin, type II cytoskeletal 2 epidermal (Cytokeratin-2e) (CK-2e) (Epithelial keratin-2e) (Keratin-2 epidermis) (Keratin-2e) (K2e) (Type-II keratin Kb2)",Homo sapiens (Human),KRT2,reviewed,keratin
+P35900,K1C20_HUMAN,"Keratin, type I cytoskeletal 20 (Cytokeratin-20) (CK-20) (Keratin-20) (K20) (Protein IT)",Homo sapiens (Human),KRT20,reviewed,keratin
+Q8N1A0,KT222_HUMAN,Keratin-like protein KRT222 (Keratin-222) (Keratin-222 pseudogene),Homo sapiens (Human),KRT222,reviewed,keratin
+Q9C075,K1C23_HUMAN,"Keratin, type I cytoskeletal 23 (Cytokeratin-23) (CK-23) (Keratin-23) (K23)",Homo sapiens (Human),KRT23,reviewed,keratin
+Q2M2I5,K1C24_HUMAN,"Keratin, type I cytoskeletal 24 (Cytokeratin-24) (CK-24) (Keratin-24) (K24) (Type I keratin-24)",Homo sapiens (Human),KRT24,reviewed,keratin
+Q7Z3Z0,K1C25_HUMAN,"Keratin, type I cytoskeletal 25 (Cytokeratin-25) (CK-25) (Keratin-25) (K25) (Keratin-25A) (K25A) (Type I inner root sheath-specific keratin-K25irs1)",Homo sapiens (Human),KRT25,reviewed,keratin
+Q7Z3Y9,K1C26_HUMAN,"Keratin, type I cytoskeletal 26 (Cytokeratin-26) (CK-26) (Keratin-25B) (K25B) (Keratin-26) (K26) (Type I inner root sheath-specific keratin-K25irs2)",Homo sapiens (Human),KRT26,reviewed,keratin
+Q7Z3Y8,K1C27_HUMAN,"Keratin, type I cytoskeletal 27 (Cytokeratin-27) (CK-27) (Keratin-25C) (K25C) (Keratin-27) (K27) (Type I inner root sheath-specific keratin-K25irs3)",Homo sapiens (Human),KRT27,reviewed,keratin
+Q7Z3Y7,K1C28_HUMAN,"Keratin, type I cytoskeletal 28 (Cytokeratin-28) (CK-28) (Keratin-25D) (K25D) (Keratin-28) (K28) (Type I inner root sheath-specific keratin-K25irs4)",Homo sapiens (Human),KRT28,reviewed,keratin
+P12035,K2C3_HUMAN,"Keratin, type II cytoskeletal 3 (65 kDa cytokeratin) (Cytokeratin-3) (CK-3) (Keratin-3) (K3) (Type-II keratin Kb3)",Homo sapiens (Human),KRT3,reviewed,keratin
+Q15323,K1H1_HUMAN,"Keratin, type I cuticular Ha1 (Hair keratin, type I Ha1) (Keratin-31) (K31)",Homo sapiens (Human),KRT31,reviewed,keratin
+Q14532,K1H2_HUMAN,"Keratin, type I cuticular Ha2 (Hair keratin, type I Ha2) (Keratin-32) (K32)",Homo sapiens (Human),KRT32,reviewed,keratin
+O76009,KT33A_HUMAN,"Keratin, type I cuticular Ha3-I (Hair keratin, type I Ha3-I) (Keratin-33A) (K33A)",Homo sapiens (Human),KRT33A,reviewed,keratin
+Q14525,KT33B_HUMAN,"Keratin, type I cuticular Ha3-II (Hair keratin, type I Ha3-II) (Keratin-33B) (K33B)",Homo sapiens (Human),KRT33B,reviewed,keratin
+O76011,KRT34_HUMAN,"Keratin, type I cuticular Ha4 (Hair keratin, type I Ha4) (Keratin-34) (K34)",Homo sapiens (Human),KRT34,reviewed,keratin
+Q92764,KRT35_HUMAN,"Keratin, type I cuticular Ha5 (Hair keratin, type I Ha5) (Keratin-35) (K35)",Homo sapiens (Human),KRT35,reviewed,keratin
+O76013,KRT36_HUMAN,"Keratin, type I cuticular Ha6 (Hair keratin, type I Ha6) (Keratin-36) (K36)",Homo sapiens (Human),KRT36,reviewed,keratin
+O76014,KRT37_HUMAN,"Keratin, type I cuticular Ha7 (Hair keratin, type I Ha7) (Keratin-37) (K37)",Homo sapiens (Human),KRT37,reviewed,keratin
+O76015,KRT38_HUMAN,"Keratin, type I cuticular Ha8 (Hair keratin, type I Ha8) (Keratin-38) (K38)",Homo sapiens (Human),KRT38,reviewed,keratin
+Q6A163,K1C39_HUMAN,"Keratin, type I cytoskeletal 39 (Cytokeratin-39) (CK-39) (Keratin-39) (K39) (Type I hair keratin Ka35)",Homo sapiens (Human),KRT39,reviewed,keratin
+P19013,K2C4_HUMAN,"Keratin, type II cytoskeletal 4 (Cytokeratin-4) (CK-4) (Keratin-4) (K4) (Type-II keratin Kb4)",Homo sapiens (Human),KRT4,reviewed,keratin
+Q6A162,K1C40_HUMAN,"Keratin, type I cytoskeletal 40 (Cytokeratin-40) (CK-40) (Keratin-40) (K40) (Type I hair keratin Ka36)",Homo sapiens (Human),KRT40,reviewed,keratin
+P13647,K2C5_HUMAN,"Keratin, type II cytoskeletal 5 (58 kDa cytokeratin) (Cytokeratin-5) (CK-5) (Keratin-5) (K5) (Type-II keratin Kb5)",Homo sapiens (Human),KRT5,reviewed,keratin
+P02538,K2C6A_HUMAN,"Keratin, type II cytoskeletal 6A (Cytokeratin-6A) (CK-6A) (Cytokeratin-6D) (CK-6D) (Keratin-6A) (K6A) (Type-II keratin Kb6) (allergen Hom s 5)",Homo sapiens (Human),KRT6A,reviewed,keratin
+P04259,K2C6B_HUMAN,"Keratin, type II cytoskeletal 6B (Cytokeratin-6B) (CK-6B) (Keratin-6B) (K6B) (Type-II keratin Kb10)",Homo sapiens (Human),KRT6B,reviewed,keratin
+P48668,K2C6C_HUMAN,"Keratin, type II cytoskeletal 6C (Cytokeratin-6C) (CK-6C) (Cytokeratin-6E) (CK-6E) (Keratin K6h) (Keratin-6C) (K6C) (Type-II keratin Kb12)",Homo sapiens (Human),KRT6C,reviewed,keratin
+P08729,K2C7_HUMAN,"Keratin, type II cytoskeletal 7 (Cytokeratin-7) (CK-7) (Keratin-7) (K7) (Sarcolectin) (Type-II keratin Kb7)",Homo sapiens (Human),KRT7,reviewed,keratin
+Q3KNV1,Q3KNV1_HUMAN,KRT7 protein,Homo sapiens (Human),KRT7,unreviewed,keratin
+Q3SY84,K2C71_HUMAN,"Keratin, type II cytoskeletal 71 (Cytokeratin-71) (CK-71) (Keratin-71) (K71) (Type II inner root sheath-specific keratin-K6irs1) (Keratin 6 irs) (hK6irs) (hK6irs1) (Type-II keratin Kb34)",Homo sapiens (Human),KRT71,reviewed,keratin
+Q14CN4,K2C72_HUMAN,"Keratin, type II cytoskeletal 72 (Cytokeratin-72) (CK-72) (Keratin-72) (K72) (Type II inner root sheath-specific keratin-K6irs2) (Type-II keratin Kb35)",Homo sapiens (Human),KRT72,reviewed,keratin
+Q86Y46,K2C73_HUMAN,"Keratin, type II cytoskeletal 73 (Cytokeratin-73) (CK-73) (Keratin-73) (K73) (Type II inner root sheath-specific keratin-K6irs3) (Type-II keratin Kb36)",Homo sapiens (Human),KRT73,reviewed,keratin
+Q7RTS7,K2C74_HUMAN,"Keratin, type II cytoskeletal 74 (Cytokeratin-74) (CK-74) (Keratin-5c) (K5C) (Keratin-74) (K74) (Type II inner root sheath-specific keratin-K6irs4) (Type-II keratin Kb37)",Homo sapiens (Human),KRT74,reviewed,keratin
+O95678,K2C75_HUMAN,"Keratin, type II cytoskeletal 75 (Cytokeratin-75) (CK-75) (Keratin-6 hair follicle) (hK6hf) (Keratin-75) (K75) (Type II keratin-K6hf) (Type-II keratin Kb18)",Homo sapiens (Human),KRT75,reviewed,keratin
+Q01546,K22O_HUMAN,"Keratin, type II cytoskeletal 2 oral (Cytokeratin-2P) (CK-2P) (K2P) (Keratin-76) (K76) (Type-II keratin Kb9)",Homo sapiens (Human),KRT76,reviewed,keratin
+Q7Z794,K2C1B_HUMAN,"Keratin, type II cytoskeletal 1b (Cytokeratin-1B) (CK-1B) (Keratin-77) (K77) (Type-II keratin Kb39)",Homo sapiens (Human),KRT77,reviewed,keratin
+Q8N1N4,K2C78_HUMAN,"Keratin, type II cytoskeletal 78 (Cytokeratin-78) (CK-78) (Keratin-5b) (Keratin-78) (K78) (Type-II keratin Kb40)",Homo sapiens (Human),KRT78,reviewed,keratin
+Q5XKE5,K2C79_HUMAN,"Keratin, type II cytoskeletal 79 (Cytokeratin-79) (CK-79) (Keratin-6-like) (Keratin-6L) (Keratin-79) (K79) (Type-II keratin Kb38)",Homo sapiens (Human),KRT79,reviewed,keratin
+P05787,K2C8_HUMAN,"Keratin, type II cytoskeletal 8 (Cytokeratin-8) (CK-8) (Keratin-8) (K8) (Type-II keratin Kb8)",Homo sapiens (Human),KRT8,reviewed,keratin
+Q6KB66,K2C80_HUMAN,"Keratin, type II cytoskeletal 80 (Cytokeratin-80) (CK-80) (Keratin-80) (K80) (Type-II keratin Kb20)",Homo sapiens (Human),KRT80,reviewed,keratin
+Q14533,KRT81_HUMAN,"Keratin, type II cuticular Hb1 (Hair keratin K2.9) (Keratin, hair, basic, 1) (Keratin-81) (K81) (Metastatic lymph node 137 gene protein) (MLN 137) (Type II hair keratin Hb1) (Type-II keratin Kb21) (ghHKb1) (ghHb1)",Homo sapiens (Human),KRT81,reviewed,keratin
+Q9NSB4,KRT82_HUMAN,"Keratin, type II cuticular Hb2 (Keratin-82) (K82) (Type II hair keratin Hb2) (Type-II keratin Kb22)",Homo sapiens (Human),KRT82,reviewed,keratin
+P78385,KRT83_HUMAN,"Keratin, type II cuticular Hb3 (Hair keratin K2.10) (Keratin-83) (K83) (Type II hair keratin Hb3) (Type-II keratin Kb23)",Homo sapiens (Human),KRT83,reviewed,keratin
+Q9NSB2,KRT84_HUMAN,"Keratin, type II cuticular Hb4 (Keratin-84) (K84) (Type II hair keratin Hb4) (Type-II keratin Kb24)",Homo sapiens (Human),KRT84,reviewed,keratin
+P78386,KRT85_HUMAN,"Keratin, type II cuticular Hb5 (Hair keratin K2.12) (Keratin-85) (K85) (Type II hair keratin Hb5) (Type-II keratin Kb25)",Homo sapiens (Human),KRT85,reviewed,keratin
+O43790,KRT86_HUMAN,"Keratin, type II cuticular Hb6 (Hair keratin K2.11) (Keratin-86) (K86) (Type II hair keratin Hb6) (Type-II keratin Kb26)",Homo sapiens (Human),KRT86,reviewed,keratin
+A6NCN2,KR87P_HUMAN,"Putative keratin-87 protein (Keratin, hair, basic pseudogene 4) (Keratin-121 pseudogene)",Homo sapiens (Human),KRT87P,reviewed,keratin
+P35527,K1C9_HUMAN,"Keratin, type I cytoskeletal 9 (Cytokeratin-9) (CK-9) (Keratin-9) (K9)",Homo sapiens (Human),KRT9,reviewed,keratin
+P60331,KR101_HUMAN,Keratin-associated protein 10-1 (High sulfur keratin-associated protein 10.1) (Keratin-associated protein 10.1) (Keratin-associated protein 18-1) (Keratin-associated protein 18.1),Homo sapiens (Human),KRTAP10-1,reviewed,keratin
+P60014,KR10A_HUMAN,Keratin-associated protein 10-10 (High sulfur keratin-associated protein 10.10) (Keratin-associated protein 10.10) (Keratin-associated protein 18-10) (Keratin-associated protein 18.10),Homo sapiens (Human),KRTAP10-10,reviewed,keratin
+P60412,KR10B_HUMAN,Keratin-associated protein 10-11 (High sulfur keratin-associated protein 10.11) (Keratin-associated protein 10.11) (Keratin-associated protein 18-11) (Keratin-associated protein 18.11),Homo sapiens (Human),KRTAP10-11,reviewed,keratin
+P60413,KR10C_HUMAN,Keratin-associated protein 10-12 (High sulfur keratin-associated protein 10.12) (Keratin-associated protein 10.12) (Keratin-associated protein 18-12) (Keratin-associated protein 18.12),Homo sapiens (Human),KRTAP10-12,reviewed,keratin
+P60368,KR102_HUMAN,Keratin-associated protein 10-2 (High sulfur keratin-associated protein 10.2) (Keratin-associated protein 10.2) (Keratin-associated protein 18-2) (Keratin-associated protein 18.2),Homo sapiens (Human),KRTAP10-2,reviewed,keratin
+P60369,KR103_HUMAN,Keratin-associated protein 10-3 (High sulfur keratin-associated protein 10.3) (Keratin-associated protein 10.3) (Keratin-associated protein 18-3) (Keratin-associated protein 18.3),Homo sapiens (Human),KRTAP10-3,reviewed,keratin
+P60372,KR104_HUMAN,Keratin-associated protein 10-4 (High sulfur keratin-associated protein 10.4) (Keratin-associated protein 10.4) (Keratin-associated protein 18-4) (Keratin-associated protein 18.4),Homo sapiens (Human),KRTAP10-4,reviewed,keratin
+P60370,KR105_HUMAN,Keratin-associated protein 10-5 (High sulfur keratin-associated protein 10.5) (Keratin-associated protein 10.5) (Keratin-associated protein 18-5) (Keratin-associated protein 18.5),Homo sapiens (Human),KRTAP10-5,reviewed,keratin
+P60371,KR106_HUMAN,Keratin-associated protein 10-6 (High sulfur keratin-associated protein 10.6) (Keratin-associated protein 10.6) (Keratin-associated protein 18-6) (Keratin-associated protein 18.6),Homo sapiens (Human),KRTAP10-6,reviewed,keratin
+P60409,KR107_HUMAN,Keratin-associated protein 10-7 (High sulfur keratin-associated protein 10.7) (Keratin-associated protein 10.7) (Keratin-associated protein 18-7) (Keratin-associated protein 18.7),Homo sapiens (Human),KRTAP10-7,reviewed,keratin
+P60410,KR108_HUMAN,Keratin-associated protein 10-8 (High sulfur keratin-associated protein 10.8) (Keratin-associated protein 10.8) (Keratin-associated protein 18-8) (Keratin-associated protein 18.8),Homo sapiens (Human),KRTAP10-8,reviewed,keratin
+P60411,KR109_HUMAN,Keratin-associated protein 10-9 (High sulfur keratin-associated protein 10.9) (Keratin-associated protein 10.9) (Keratin-associated protein 18-9) (Keratin-associated protein 18.9),Homo sapiens (Human),KRTAP10-9,reviewed,keratin
+Q07627,KRA11_HUMAN,Keratin-associated protein 1-1 (High sulfur keratin-associated protein 1.1) (Keratin-associated protein 1.1) (Keratin-associated protein 1.6) (Keratin-associated protein 1.7),Homo sapiens (Human),KRTAP1-1,reviewed,keratin
+Q8IUC1,KR111_HUMAN,Keratin-associated protein 11-1 (High sulfur keratin-associated protein 11.1),Homo sapiens (Human),KRTAP11-1,reviewed,keratin
+P59990,KR121_HUMAN,Keratin-associated protein 12-1 (High sulfur keratin-associated protein 12.1) (Keratin-associated protein 12.1),Homo sapiens (Human),KRTAP12-1,reviewed,keratin
+P59991,KR122_HUMAN,Keratin-associated protein 12-2 (High sulfur keratin-associated protein 12.2) (Keratin-associated protein 12.2),Homo sapiens (Human),KRTAP12-2,reviewed,keratin
+P60328,KR123_HUMAN,Keratin-associated protein 12-3 (High sulfur keratin-associated protein 12.3) (Keratin-associated protein 12.3),Homo sapiens (Human),KRTAP12-3,reviewed,keratin
+P60329,KR124_HUMAN,Keratin-associated protein 12-4 (High sulfur keratin-associated protein 12.4) (Keratin-associated protein 12.4),Homo sapiens (Human),KRTAP12-4,reviewed,keratin
+Q8IUG1,KRA13_HUMAN,Keratin-associated protein 1-3 (Keratin-associated protein 1.8) (Keratin-associated protein 1.9),Homo sapiens (Human),KRTAP1-3,reviewed,keratin
+Q8IUC0,KR131_HUMAN,Keratin-associated protein 13-1 (High sulfur keratin-associated protein 13.1),Homo sapiens (Human),KRTAP13-1,reviewed,keratin
+Q52LG2,KR132_HUMAN,Keratin-associated protein 13-2,Homo sapiens (Human),KRTAP13-2,reviewed,keratin
+Q3SY46,KR133_HUMAN,Keratin-associated protein 13-3,Homo sapiens (Human),KRTAP13-3,reviewed,keratin
+Q3LI77,KR134_HUMAN,Keratin-associated protein 13-4,Homo sapiens (Human),KRTAP13-4,reviewed,keratin
+P0C5Y4,KRA14_HUMAN,Keratin-associated protein 1-4 (High sulfur keratin-associated protein 1.4) (Keratin-associated protein 1.4),Homo sapiens (Human),KRTAP1-4,reviewed,keratin
+Q9BYS1,KRA15_HUMAN,Keratin-associated protein 1-5 (High sulfur keratin-associated protein 1.5) (Keratin-associated protein 1.5),Homo sapiens (Human),KRTAP1-5,reviewed,keratin
+Q3LI76,KR151_HUMAN,Keratin-associated protein 15-1,Homo sapiens (Human),KRTAP15-1,reviewed,keratin
+A8MUX0,KR161_HUMAN,Keratin-associated protein 16-1,Homo sapiens (Human),KRTAP16-1,reviewed,keratin
+Q9BYP8,KR171_HUMAN,Keratin-associated protein 17-1 (Keratin-associated protein 16.1),Homo sapiens (Human),KRTAP17-1,reviewed,keratin
+Q8IUB9,KR191_HUMAN,Keratin-associated protein 19-1 (High tyrosine-glycine keratin-associated protein 19.1),Homo sapiens (Human),KRTAP19-1,reviewed,keratin
+Q3LHN2,KR192_HUMAN,Keratin-associated protein 19-2,Homo sapiens (Human),KRTAP19-2,reviewed,keratin
+Q7Z4W3,KR193_HUMAN,Keratin-associated protein 19-3 (GTHRP) (Glycine/tyrosine-rich protein),Homo sapiens (Human),KRTAP19-3,reviewed,keratin
+Q3LI73,KR194_HUMAN,Keratin-associated protein 19-4,Homo sapiens (Human),KRTAP19-4,reviewed,keratin
+Q3LI72,KR195_HUMAN,Keratin-associated protein 19-5,Homo sapiens (Human),KRTAP19-5,reviewed,keratin
+Q3LI70,KR196_HUMAN,Keratin-associated protein 19-6,Homo sapiens (Human),KRTAP19-6,reviewed,keratin
+Q3SYF9,KR197_HUMAN,Keratin-associated protein 19-7,Homo sapiens (Human),KRTAP19-7,reviewed,keratin
+Q3LI54,KR198_HUMAN,Keratin-associated protein 19-8,Homo sapiens (Human),KRTAP19-8,reviewed,keratin
+Q3LI63,KR201_HUMAN,Keratin-associated protein 20-1,Homo sapiens (Human),KRTAP20-1,reviewed,keratin
+Q3LI61,KR202_HUMAN,Keratin-associated protein 20-2,Homo sapiens (Human),KRTAP20-2,reviewed,keratin
+Q9BYU5,KRA21_HUMAN,Keratin-associated protein 2-1 (High sulfur keratin-associated protein 2.1) (Keratin-associated protein 2.1),Homo sapiens (Human),KRTAP2-1,reviewed,keratin
+Q3LI58,KR211_HUMAN,Keratin-associated protein 21-1,Homo sapiens (Human),KRTAP21-1,reviewed,keratin
+Q3LI59,KR212_HUMAN,Keratin-associated protein 21-2,Homo sapiens (Human),KRTAP21-2,reviewed,keratin
+Q3LHN1,KR213_HUMAN,Keratin-associated protein 21-3,Homo sapiens (Human),KRTAP21-3,reviewed,keratin
+Q9BYT5,KRA22_HUMAN,Keratin-associated protein 2-2 (High sulfur keratin-associated protein 2.2) (Keratin-associated protein 2.2),Homo sapiens (Human),KRTAP2-2,reviewed,keratin
+Q3MIV0,KR221_HUMAN,Keratin-associated protein 22-1,Homo sapiens (Human),KRTAP22-1,reviewed,keratin
+P0C7H8,KRA23_HUMAN,Keratin-associated protein 2-3 (High sulfur keratin-associated protein 2.4) (Keratin-associated protein 2.3),Homo sapiens (Human),KRTAP2-3,reviewed,keratin
+A1A580,KR231_HUMAN,Keratin-associated protein 23-1,Homo sapiens (Human),KRTAP23-1,reviewed,keratin
+Q9BYR9,KRA24_HUMAN,Keratin-associated protein 2-4 (High sulfur keratin-associated protein 2.4) (Keratin-associated protein 2.4),Homo sapiens (Human),KRTAP2-4,reviewed,keratin
+Q3LI83,KR241_HUMAN,Keratin-associated protein 24-1,Homo sapiens (Human),KRTAP24-1,reviewed,keratin
+Q3LHN0,KR251_HUMAN,Keratin-associated protein 25-1,Homo sapiens (Human),KRTAP25-1,reviewed,keratin
+Q6PEX3,KR261_HUMAN,Keratin-associated protein 26-1,Homo sapiens (Human),KRTAP26-1,reviewed,keratin
+Q3LI81,KR271_HUMAN,Keratin-associated protein 27-1,Homo sapiens (Human),KRTAP27-1,reviewed,keratin
+A8MX34,KR291_HUMAN,Keratin-associated protein 29-1 (Keratin-associated protein 29.2),Homo sapiens (Human),KRTAP29-1,reviewed,keratin
+Q9BYR8,KRA31_HUMAN,Keratin-associated protein 3-1 (High sulfur keratin-associated protein 3.1) (Keratin-associated protein 3.1),Homo sapiens (Human),KRTAP3-1,reviewed,keratin
+Q9BYR7,KRA32_HUMAN,Keratin-associated protein 3-2 (High sulfur keratin-associated protein 3.2) (Keratin-associated protein 3.2),Homo sapiens (Human),KRTAP3-2,reviewed,keratin
+Q9BYR6,KRA33_HUMAN,Keratin-associated protein 3-3 (High sulfur keratin-associated protein 3.3) (Keratin-associated protein 3.3),Homo sapiens (Human),KRTAP3-3,reviewed,keratin
+Q9BYQ7,KRA41_HUMAN,Keratin-associated protein 4-1 (Keratin-associated protein 4-10) (Keratin-associated protein 4.1) (Keratin-associated protein 4.10) (Ultrahigh sulfur keratin-associated protein 4.10),Homo sapiens (Human),KRTAP4-1,reviewed,keratin
+Q9BYQ6,KR411_HUMAN,Keratin-associated protein 4-11 (Keratin-associated protein 4-14) (Keratin-associated protein 4.11) (Keratin-associated protein 4.14) (Ultrahigh sulfur keratin-associated protein 4.14),Homo sapiens (Human),KRTAP4-11,reviewed,keratin
+Q9BQ66,KR412_HUMAN,Keratin-associated protein 4-12 (Keratin-associated protein 4.12) (Ultrahigh sulfur keratin-associated protein 4.12),Homo sapiens (Human),KRTAP4-12,reviewed,keratin
+Q9BYR5,KRA42_HUMAN,Keratin-associated protein 4-2 (Keratin-associated protein 4.2) (Ultrahigh sulfur keratin-associated protein 4.2),Homo sapiens (Human),KRTAP4-2,reviewed,keratin
+Q9BYR4,KRA43_HUMAN,Keratin-associated protein 4-3 (Keratin-associated protein 4.3) (Ultrahigh sulfur keratin-associated protein 4.3),Homo sapiens (Human),KRTAP4-3,reviewed,keratin
+Q9BYR3,KRA44_HUMAN,Keratin-associated protein 4-4 (Keratin-associated protein 4-13) (Keratin-associated protein 4.13) (Keratin-associated protein 4.4) (Ultrahigh sulfur keratin-associated protein 4.13) (Ultrahigh sulfur keratin-associated protein 4.4),Homo sapiens (Human),KRTAP4-4,reviewed,keratin
+Q9BYR2,KRA45_HUMAN,Keratin-associated protein 4-5 (Keratin-associated protein 4.5) (Ultrahigh sulfur keratin-associated protein 4.5),Homo sapiens (Human),KRTAP4-5,reviewed,keratin
+Q9BYQ5,KRA46_HUMAN,Keratin-associated protein 4-6 (Keratin-associated protein 4-15) (Keratin-associated protein 4.15) (Keratin-associated protein 4.6) (Ultrahigh sulfur keratin-associated protein 4.15),Homo sapiens (Human),KRTAP4-6,reviewed,keratin
+Q9BYR0,KRA47_HUMAN,Keratin-associated protein 4-7 (Keratin-associated protein 4.7) (Ultrahigh sulfur keratin-associated protein 4.7),Homo sapiens (Human),KRTAP4-7,reviewed,keratin
+Q9BYQ9,KRA48_HUMAN,Keratin-associated protein 4-8 (Keratin-associated protein 4.8) (Ultrahigh sulfur keratin-associated protein 4.8),Homo sapiens (Human),KRTAP4-8,reviewed,keratin
+Q9BYQ8,KRA49_HUMAN,Keratin-associated protein 4-9 (Keratin-associated protein 4.9) (Ultrahigh sulfur keratin-associated protein 4.9),Homo sapiens (Human),KRTAP4-9,reviewed,keratin
+Q6L8H4,KRA51_HUMAN,"Keratin-associated protein 5-1 (Keratin, cuticle, ultrahigh sulphur 1-like) (Keratin-associated protein 5.1) (Ultrahigh sulfur keratin-associated protein 5.1)",Homo sapiens (Human),KRTAP5-1,reviewed,keratin
+Q6L8G5,KR510_HUMAN,Keratin-associated protein 5-10 (Keratin-associated protein 5.10) (Ultrahigh sulfur keratin-associated protein 5.10),Homo sapiens (Human),KRTAP5-10,reviewed,keratin
+Q6L8G4,KR511_HUMAN,Keratin-associated protein 5-11 (Keratin-associated protein 5.11) (Ultrahigh sulfur keratin-associated protein 5.11),Homo sapiens (Human),KRTAP5-11,reviewed,keratin
+Q701N4,KRA52_HUMAN,Keratin-associated protein 5-2 (Keratin-associated protein 5-8) (Keratin-associated protein 5.2) (Keratin-associated protein 5.8) (Ultrahigh sulfur keratin-associated protein 5.2),Homo sapiens (Human),KRTAP5-2,reviewed,keratin
+Q6L8H2,KRA53_HUMAN,Keratin-associated protein 5-3 (Keratin-associated protein 5-9) (Keratin-associated protein 5.3) (Keratin-associated protein 5.9) (UHS KerB-like) (Ultrahigh sulfur keratin-associated protein 5.3),Homo sapiens (Human),KRTAP5-3,reviewed,keratin
+Q6L8H1,KRA54_HUMAN,Keratin-associated protein 5-4 (Keratin-associated protein 5.4) (Ultrahigh sulfur keratin-associated protein 5.4),Homo sapiens (Human),KRTAP5-4,reviewed,keratin
+Q701N2,KRA55_HUMAN,Keratin-associated protein 5-5 (Keratin-associated protein 5-11) (Keratin-associated protein 5.11) (Keratin-associated protein 5.5) (Ultrahigh sulfur keratin-associated protein 5.5),Homo sapiens (Human),KRTAP5-5,reviewed,keratin
+Q6L8G9,KRA56_HUMAN,Keratin-associated protein 5-6 (Keratin-associated protein 5.6) (Ultrahigh sulfur keratin-associated protein 5.6),Homo sapiens (Human),KRTAP5-6,reviewed,keratin
+Q6L8G8,KRA57_HUMAN,Keratin-associated protein 5-7 (Keratin-associated protein 5-3) (Keratin-associated protein 5.3) (Keratin-associated protein 5.7) (Ultrahigh sulfur keratin-associated protein 5.7),Homo sapiens (Human),KRTAP5-7,reviewed,keratin
+O75690,KRA58_HUMAN,"Keratin-associated protein 5-8 (Keratin, ultra high-sulfur matrix protein B) (Keratin-associated protein 5.8) (UHS keratin B) (UHS KerB) (Ultrahigh sulfur keratin-associated protein 5.8)",Homo sapiens (Human),KRTAP5-8,reviewed,keratin
+P26371,KRA59_HUMAN,"Keratin-associated protein 5-9 (Keratin, cuticle, ultrahigh sulfur 1) (Keratin, ultra high-sulfur matrix protein A) (Keratin-associated protein 5.9) (UHS keratin A) (UHS KerA) (Ultrahigh sulfur keratin-associated protein 5.9)",Homo sapiens (Human),KRTAP5-9,reviewed,keratin
+Q3LI64,KRA61_HUMAN,Keratin-associated protein 6-1,Homo sapiens (Human),KRTAP6-1,reviewed,keratin
+Q3LI66,KRA62_HUMAN,Keratin-associated protein 6-2,Homo sapiens (Human),KRTAP6-2,reviewed,keratin
+Q3LI67,KRA63_HUMAN,Keratin-associated protein 6-3,Homo sapiens (Human),KRTAP6-3,reviewed,keratin
+Q8IUC3,KRA71_HUMAN,Keratin-associated protein 7-1 (High tyrosine-glycine keratin-associated protein 7.1),Homo sapiens (Human),KRTAP7-1,reviewed,keratin
+Q8IUC2,KRA81_HUMAN,Keratin-associated protein 8-1 (High glycine-tyrosine keratin-associated protein 8.1),Homo sapiens (Human),KRTAP8-1,reviewed,keratin
+A8MXZ3,KRA91_HUMAN,Keratin-associated protein 9-1 (Keratin-associated protein 9-like 3),Homo sapiens (Human),KRTAP9-1,reviewed,keratin
+Q9BYQ4,KRA92_HUMAN,Keratin-associated protein 9-2 (Keratin-associated protein 9.2) (Ultrahigh sulfur keratin-associated protein 9.2),Homo sapiens (Human),KRTAP9-2,reviewed,keratin
+Q9BYQ3,KRA93_HUMAN,Keratin-associated protein 9-3 (Keratin-associated protein 9.3) (Ultrahigh sulfur keratin-associated protein 9.3),Homo sapiens (Human),KRTAP9-3,reviewed,keratin
+Q9BYQ2,KRA94_HUMAN,Keratin-associated protein 9-4 (Keratin-associated protein 9.4) (Ultrahigh sulfur keratin-associated protein 9.4),Homo sapiens (Human),KRTAP9-4,reviewed,keratin
+A8MVA2,KRA96_HUMAN,Keratin-associated protein 9-6 (Keratin-associated protein 9-like 2),Homo sapiens (Human),KRTAP9-6,reviewed,keratin
+A8MTY7,KRA97_HUMAN,Keratin-associated protein 9-7 (Keratin-associated protein 9-like 1),Homo sapiens (Human),KRTAP9-7,reviewed,keratin
+Q9BYQ0,KRA98_HUMAN,Keratin-associated protein 9-8 (Keratin-associated protein 9.8) (Ultrahigh sulfur keratin-associated protein 9.8),Homo sapiens (Human),KRTAP9-8,reviewed,keratin
+Q9BYP9,KRA99_HUMAN,Keratin-associated protein 9-9 (Keratin-associated protein 9-5) (Keratin-associated protein 9.5) (Keratin-associated protein 9.9) (Ultrahigh sulfur keratin-associated protein 9.9),Homo sapiens (Human),KRTAP9-9,reviewed,keratin
+P60709,ACTB_HUMAN,"Actin, cytoplasmic 1 (EC 3.6.4.-) (Beta-actin) [Cleaved into: Actin, cytoplasmic 1, N-terminally processed]",Homo sapiens (Human),ACTB,reviewed,platelet
+P12814,ACTN1_HUMAN,Alpha-actinin-1 (Alpha-actinin cytoskeletal isoform) (F-actin cross-linking protein) (Non-muscle alpha-actinin-1),Homo sapiens (Human),ACTN1,reviewed,platelet
+O95810,CAVN2_HUMAN,Caveolae-associated protein 2 (Cavin-2) (PS-p68) (Phosphatidylserine-binding protein) (Serum deprivation-response protein),Homo sapiens (Human),CAVIN2,reviewed,platelet
+P23528,COF1_HUMAN,"Cofilin-1 (18 kDa phosphoprotein) (p18) (Cofilin, non-muscle isoform)",Homo sapiens (Human),CFL1,reviewed,platelet
+G3V1A4,G3V1A4_HUMAN,"Cofilin-1 (Cofilin, non-muscle isoform)",Homo sapiens (Human),CFL1,unreviewed,platelet
+E9PK25,E9PK25_HUMAN,"Cofilin-1 (Cofilin, non-muscle isoform)",Homo sapiens (Human),CFL1,unreviewed,platelet
+E9PP50,E9PP50_HUMAN,"Cofilin-1 (Cofilin, non-muscle isoform)",Homo sapiens (Human),CFL1,unreviewed,platelet
+E9PQB7,E9PQB7_HUMAN,"Cofilin-1 (Cofilin, non-muscle isoform)",Homo sapiens (Human),CFL1,unreviewed,platelet
+E9PLJ3,E9PLJ3_HUMAN,"Cofilin-1 (Cofilin, non-muscle isoform)",Homo sapiens (Human),CFL1,unreviewed,platelet
+E9PS23,E9PS23_HUMAN,"Cofilin-1 (Cofilin, non-muscle isoform)",Homo sapiens (Human),CFL1,unreviewed,platelet
+P00488,F13A_HUMAN,Coagulation factor XIII A chain (Coagulation factor XIIIa) (EC 2.3.2.13) (Protein-glutamine gamma-glutamyltransferase A chain) (Transglutaminase A chain),Homo sapiens (Human),F13A1,reviewed,platelet
+Q86UX7,URP2_HUMAN,Fermitin family homolog 3 (Kindlin-3) (MIG2-like protein) (Unc-112-related protein 2),Homo sapiens (Human),FERMT3,reviewed,platelet
+F5H1C6,F5H1C6_HUMAN,Fermitin family homolog 3,Homo sapiens (Human),FERMT3,unreviewed,platelet
+P21333,FLNA_HUMAN,Filamin-A (FLN-A) (Actin-binding protein 280) (ABP-280) (Alpha-filamin) (Endothelial actin-binding protein) (Filamin-1) (Non-muscle filamin),Homo sapiens (Human),FLNA,reviewed,platelet
+Q60FE5,Q60FE5_HUMAN,Filamin A,Homo sapiens (Human),FLNA,unreviewed,platelet
+A0A087WWY3,A0A087WWY3_HUMAN,Filamin A,Homo sapiens (Human),FLNA,unreviewed,platelet
+P04406,G3P_HUMAN,Glyceraldehyde-3-phosphate dehydrogenase (GAPDH) (EC 1.2.1.12) (Peptidyl-cysteine S-nitrosylase GAPDH) (EC 2.6.99.-),Homo sapiens (Human),GAPDH,reviewed,platelet
+E7EUT5,E7EUT5_HUMAN,glyceraldehyde-3-phosphate dehydrogenase (phosphorylating) (EC 1.2.1.12) (Peptidyl-cysteine S-nitrosylase GAPDH),Homo sapiens (Human),GAPDH,unreviewed,platelet
+P06396,GELS_HUMAN,Gelsolin (AGEL) (Actin-depolymerizing factor) (ADF) (Brevin),Homo sapiens (Human),GSN,reviewed,platelet
+P08514,ITA2B_HUMAN,"Integrin alpha-IIb (GPalpha IIb) (GPIIb) (Platelet membrane glycoprotein IIb) (CD antigen CD41) [Cleaved into: Integrin alpha-IIb heavy chain; Integrin alpha-IIb light chain, form 1; Integrin alpha-IIb light chain, form 2]",Homo sapiens (Human),ITGA2B,reviewed,platelet
+P05106,ITB3_HUMAN,Integrin beta-3 (Platelet membrane glycoprotein IIIa) (GPIIIa) (CD antigen CD61),Homo sapiens (Human),ITGB3,reviewed,platelet
+Q13201,MMRN1_HUMAN,Multimerin-1 (EMILIN-4) (Elastin microfibril interface located protein 4) (Elastin microfibril interfacer 4) (Endothelial cell multimerin) [Cleaved into: Platelet glycoprotein Ia*; 155 kDa platelet multimerin (p-155) (p155)],Homo sapiens (Human),MMRN1,reviewed,platelet
+E7EPG1,E7EPG1_HUMAN,Multimerin 1,Homo sapiens (Human),MMRN1,unreviewed,platelet
+P35579,MYH9_HUMAN,"Myosin-9 (Cellular myosin heavy chain, type A) (Myosin heavy chain 9) (Myosin heavy chain, non-muscle IIa) (Non-muscle myosin heavy chain A) (NMMHC-A) (Non-muscle myosin heavy chain IIa) (NMMHC II-a) (NMMHC-IIA)",Homo sapiens (Human),MYH9,reviewed,platelet
+P60660,MYL6_HUMAN,Myosin light polypeptide 6 (17 kDa myosin light chain) (LC17) (Myosin light chain 3) (MLC-3) (Myosin light chain alkali 3) (Myosin light chain A3) (Smooth muscle and nonmuscle myosin light chain alkali 6),Homo sapiens (Human),MYL6,reviewed,platelet
+G8JLA2,G8JLA2_HUMAN,Myosin light chain 6,Homo sapiens (Human),MYL6,unreviewed,platelet
+Q9HBI1,PARVB_HUMAN,Beta-parvin (Affixin),Homo sapiens (Human),PARVB,reviewed,platelet
+P07737,PROF1_HUMAN,Profilin-1 (Epididymis tissue protein Li 184a) (Profilin I),Homo sapiens (Human),PFN1,reviewed,platelet
+K7EJ44,K7EJ44_HUMAN,Profilin,Homo sapiens (Human),PFN1,unreviewed,platelet
+P14618,KPYM_HUMAN,Pyruvate kinase PKM (EC 2.7.1.40) (Cytosolic thyroid hormone-binding protein) (CTHBP) (Opa-interacting protein 3) (OIP-3) (Pyruvate kinase 2/3) (Pyruvate kinase muscle isozyme) (Threonine-protein kinase PKM2) (EC 2.7.11.1) (Thyroid hormone-binding protein 1) (THBP1) (Tumor M2-PK) (Tyrosine-protein kinase PKM2) (EC 2.7.10.2) (p58),Homo sapiens (Human),PKM,reviewed,platelet
+B4DNK4,B4DNK4_HUMAN,Pyruvate kinase (EC 2.7.1.40),Homo sapiens (Human),PKM,unreviewed,platelet
+P08567,PLEK_HUMAN,Pleckstrin (Platelet 47 kDa protein) (p47),Homo sapiens (Human),PLEK,reviewed,platelet
+P02775,CXCL7_HUMAN,Platelet basic protein (PBP) (C-X-C motif chemokine 7) (Leukocyte-derived growth factor) (LDGF) (Macrophage-derived growth factor) (MDGF) (Small-inducible cytokine B7) [Cleaved into: Connective tissue-activating peptide III (CTAP-III) (LA-PF4) (Low-affinity platelet factor IV); TC-2; Connective tissue-activating peptide III(1-81) (CTAP-III(1-81)); Beta-thromboglobulin (Beta-TG); Neutrophil-activating peptide 2(74) (NAP-2(74)); Neutrophil-activating peptide 2(73) (NAP-2(73)); Neutrophil-activating peptide 2 (NAP-2); TC-1; Neutrophil-activating peptide 2(1-66) (NAP-2(1-66)); Neutrophil-activating peptide 2(1-63) (NAP-2(1-63))],Homo sapiens (Human),PPBP,reviewed,platelet
+P61224,RAP1B_HUMAN,Ras-related protein Rap-1b (EC 3.6.5.2) (GTP-binding protein smg p21B),Homo sapiens (Human),RAP1B,reviewed,platelet
+E7ESV4,E7ESV4_HUMAN,small monomeric GTPase (EC 3.6.5.2),Homo sapiens (Human),RAP1B,unreviewed,platelet
+F5H7Y6,F5H7Y6_HUMAN,small monomeric GTPase (EC 3.6.5.2),Homo sapiens (Human),RAP1B,unreviewed,platelet
+F5GX62,F5GX62_HUMAN,"RAP1B, member of RAS oncogene family",Homo sapiens (Human),RAP1B,unreviewed,platelet
+F5H004,F5H004_HUMAN,"RAP1B, member of RAS oncogene family",Homo sapiens (Human),RAP1B,unreviewed,platelet
+F5H6R7,F5H6R7_HUMAN,"RAP1B, member of RAS oncogene family",Homo sapiens (Human),RAP1B,unreviewed,platelet
+A6NIZ1,RP1BL_HUMAN,Ras-related protein Rap-1b-like protein (EC 3.6.5.2),Homo sapiens (Human),RAP1BL,reviewed,platelet
+P37802,TAGL2_HUMAN,Transgelin-2 (Epididymis tissue protein Li 7e) (SM22-alpha homolog),Homo sapiens (Human),TAGLN2,reviewed,platelet
+X6RJP6,X6RJP6_HUMAN,Transgelin 2,Homo sapiens (Human),TAGLN2,unreviewed,platelet
+P07996,TSP1_HUMAN,Thrombospondin-1 (Glycoprotein G),Homo sapiens (Human),THBS1,reviewed,platelet
+Q9Y490,TLN1_HUMAN,Talin-1,Homo sapiens (Human),TLN1,reviewed,platelet
+P62328,TYB4_HUMAN,Thymosin beta-4 (T beta-4) (Fx) [Cleaved into: Hemoregulatory peptide AcSDKP (Ac-Ser-Asp-Lys-Pro) (N-acetyl-SDKP) (AcSDKP) (Seraspenide)],Homo sapiens (Human),TMSB4X,reviewed,platelet
+P67936,TPM4_HUMAN,Tropomyosin alpha-4 chain (TM30p1) (Tropomyosin-4),Homo sapiens (Human),TPM4,reviewed,platelet
+P68363,TBA1B_HUMAN,Tubulin alpha-1B chain (EC 3.6.5.-) (Alpha-tubulin ubiquitous) (Tubulin K-alpha-1) (Tubulin alpha-ubiquitous chain) [Cleaved into: Detyrosinated tubulin alpha-1B chain],Homo sapiens (Human),TUBA1B,reviewed,platelet
+Q9H4B7,TBB1_HUMAN,Tubulin beta-1 chain,Homo sapiens (Human),TUBB1,reviewed,platelet
+P68371,TBB4B_HUMAN,Tubulin beta-4B chain (Tubulin beta-2 chain) (Tubulin beta-2C chain),Homo sapiens (Human),TUBB4B,reviewed,platelet
+P18206,VINC_HUMAN,Vinculin (Metavinculin) (MV),Homo sapiens (Human),VCL,reviewed,platelet
+P63104,1433Z_HUMAN,14-3-3 protein zeta/delta (Protein kinase C inhibitor protein 1) (KCIP-1),Homo sapiens (Human),YWHAZ,reviewed,platelet
+E7EX29,E7EX29_HUMAN,14-3-3 protein zeta/delta,Homo sapiens (Human),YWHAZ,unreviewed,platelet
+B0AZS6,B0AZS6_HUMAN,14-3-3 protein zeta/delta,Homo sapiens (Human),YWHAZ,unreviewed,platelet
+H0YB80,H0YB80_HUMAN,14-3-3 protein zeta/delta,Homo sapiens (Human),YWHAZ,unreviewed,platelet
+Q5HY54,Q5HY54_HUMAN,deleted,,,,platelet
+H3BM21,H3BM21_HUMAN,Integrin beta,Homo sapiens (Human),,unreviewed,platelet
+P00698,LYSC_CHICK,"Lysozyme C (EC 3.2.1.17) (1,4-beta-N-acetylmuramidase C) (Allergen Gal d IV) (allergen Gal d 4)",,LYZ,reviewed,enzyme
+P00761,TRYP_PIG,Trypsin (EC 3.4.21.4),,P00761,reviewed,enzyme
+Q7M135,LYSC_LYSEN,Lysyl endopeptidase (EC 3.4.21.50) (Lys-C),,Q7M135,reviewed,enzyme
